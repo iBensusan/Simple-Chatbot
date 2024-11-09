@@ -29,7 +29,7 @@ A basic Python chatbot that can respond to a limited set of questions or keyword
 
 1. Run the chatbot script:
     ```bash
-    python chatbot.py
+    python simple_chatbot.py
     ```
 
 2. The chatbot will greet you and ask for input. Type any question or keyword such as:
@@ -48,7 +48,7 @@ A basic Python chatbot that can respond to a limited set of questions or keyword
 
 ## Files
 
-- `chatbot.py`: The main Python script implementing the chatbot functionality.
+- `simple_chatbot.py`: The main Python script implementing the chatbot functionality.
 - `README.md`: Project description and usage instructions.
 
 ## License
